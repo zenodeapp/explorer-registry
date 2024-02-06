@@ -1,0 +1,22 @@
+[
+  {
+    "id": "anodeofzen",
+    "endpoint": "tcp://namada-rpc.zenode.app:80"
+  },
+  {
+    "id": "Stake&Relax",
+    "endpoint": "tcp://namada-testnet-rpc.stakeandrelax.net:80"
+  },
+  {
+    "id": "spidey",
+    "endpoint": "tcp://namada-rpc.spidey.services:80"
+  },
+  {
+    "id": "LiveRaveN",
+    "endpoint": "tcp://namada.rpc80.liveraven.net:80"
+  },
+  {
+    "id": "OverlordDuck",
+    "endpoint": "tcp://namada.rpcstatic-mafan.fun:80"
+  }
+]
