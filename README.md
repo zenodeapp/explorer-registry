@@ -1,2 +1,2 @@
-# N-Explorer
-Endpoint registry for chains in the N-Explorer (RPCs &amp; APIs)
+# Explorer
+Endpoint registry for chains in the Explorer (RPCs &amp; APIs)
