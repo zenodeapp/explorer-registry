@@ -1,4 +1,4 @@
-# Explorer
+# Explorer Registry
 
 Data registry for the https://zenode.app Explorer.
 
