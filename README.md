@@ -20,6 +20,10 @@ If you wish to be included on the explorer, make a PR, editing the files:
   - RPC (currently only supports **http://** or **tcp://**)
   - API/Indexer (**https://** supported)
 
+## Credit
+
+- Creating an endpoint registry was inspired by Gavin Birch (from Knowable). He pointed towards this being useful to have! A big shout out to him ❤️.
+
 </br>
 
 <p align="right">— ZEN</p>
