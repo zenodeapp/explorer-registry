@@ -10,8 +10,8 @@ This has been written by ZENODE and is licensed under the APACHE 2.0-license (se
 ## PR Requests
 
 If you wish to be included on the explorer, make a PR, editing the files:
-- [/endpoints/namada-se/apis.json](/endpoints/namada-se/apis.json)
 - [/endpoints/namada-se/rpcs.json](/endpoints/namada-se/rpcs.json)
+- [/endpoints/namada-se/apis.json](/endpoints/namada-se/apis.json)
 - [/profiles.json](/profiles.json) _(optional; for an avatar)_
 
 ## Supports
