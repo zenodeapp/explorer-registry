@@ -22,7 +22,7 @@ If you wish to be included on the explorer, make a PR, editing the files:
 
 ## Credit
 
-- Creating an endpoint registry was inspired by Gavin Birch (from Knowable). He pointed towards this being useful to have! A big shout out to him ❤️.
+- Creating an endpoint registry was inspired by Gavin Birch (@gavinly from Knowable.vc). He pointed towards this being useful to have! A big shout out to him ❤️.
 
 </br>
 
