@@ -1,6 +1,6 @@
 # Explorer Registry
 
-Data registry for the https://zenode.app Explorer.
+Data registry for https://zenode.app/explorer.
 
 This has been written by ZENODE and is licensed under the APACHE 2.0-license (see [LICENSE](./LICENSE)).
 
@@ -20,9 +20,9 @@ If you wish to be included on the explorer, make a PR, editing the files:
   - RPC (currently only supports **http://** or **tcp://**)
   - API/Indexer (**https://** supported)
 
-## Credit
+## Credits
 
-- Creating an endpoint registry was inspired by Gavin Birch (@gavinly from Knowable.vc). He pointed towards this being useful to have! A big shout out to him ❤️.
+- Creating the endpoint registry was inspired by Gavin Birch (@gavinly from Knowable.vc). He pointed towards this being useful to have! A big shout out to him ❤️.
 
 </br>
 
