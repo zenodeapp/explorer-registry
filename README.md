@@ -18,7 +18,7 @@ If you wish to be included on the explorer, make a PR, editing the files:
 
 - Namada/Shielded Expedition
   - RPC (currently only supports **http://** or **tcp://**)
-  - API/Indexer (**https** supported)
+  - API/Indexer (**https://** supported)
 
 </br>
 
