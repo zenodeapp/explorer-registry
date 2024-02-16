@@ -18,5 +18,9 @@
   {
     "id": "OverlordDuck",
     "endpoint": "tcp://namada.rpcstatic-mafan.fun:80"
+  },
+  {
+    "id": "stake-machine",
+    "endpoint": "tcp://namada-rpc.stake-machine.com:80"
   }
 ]
