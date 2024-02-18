@@ -22,5 +22,8 @@
   {
     "id": "stake-machine",
     "endpoint": "tcp://namada-rpc.stake-machine.com:80"
-  }
-]
+  },
+  {
+    "id": "snsmlnn",
+    "endpoint": "tcp://namada-rpc-80.snsmln.xyz:80"
+  }]
