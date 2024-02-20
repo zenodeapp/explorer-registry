@@ -6,5 +6,11 @@
   {
     "id": "snsmlnn",
     "endpoint": "https://namada-indexer.snsmln.xyz"
+  },
+  {
+    "id": "spidey",
+    "endpoint": "https://namada-indexer.spidey.services"
   }
+
+
 ]
