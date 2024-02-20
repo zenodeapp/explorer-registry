@@ -9,7 +9,7 @@
   },
   {
     "id": "spidey",
-    "endpoint": "https://namada-indexer.spidey.services"
+    "endpoint": "http://namada-indexer.spidey.services"
   },
   {
     "id": "testnet.one",
