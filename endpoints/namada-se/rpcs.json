@@ -26,4 +26,8 @@
   {
     "id": "snsmlnn",
     "endpoint": "tcp://namada-rpc-80.snsmln.xyz:80"
+  },
+  {
+    "id": "testnet.one",
+    "endpoint": "tcp://rpc.testnet.one:80"
   }]
