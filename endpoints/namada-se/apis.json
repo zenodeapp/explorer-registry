@@ -10,6 +10,10 @@
   {
     "id": "spidey",
     "endpoint": "https://namada-indexer.spidey.services"
+  },
+  {
+    "id": "testnet.one",
+    "endpoint": "https://indexer.testnet.one"
   }
 
 
