@@ -1,7 +1,7 @@
 [
   {
     "id": "anodeofzen",
-    "endpoint": "tcp://namada-rpc.zenode.app:80"
+    "endpoint": "https://namada-rpc.zenode.app"
   },
   {
     "id": "Stake&Relax",
@@ -17,11 +17,11 @@
   },
   {
     "id": "OverlordDuck",
-    "endpoint": "tcp://namada.rpcstatic-mafan.fun:80"
+    "endpoint": "https://namada.rpcstatic-mafan.fun"
   },
   {
     "id": "stake-machine",
-    "endpoint": "tcp://namada-rpc.stake-machine.com:80"
+    "endpoint": "https://namada-rpc.stake-machine.com"
   },
   {
     "id": "snsmlnn",
@@ -29,7 +29,7 @@
   },
   {
     "id": "testnet.one",
-    "endpoint": "tcp://rpc.testnet.one:80"
+    "endpoint": "https://rpc.testnet.one"
   },
   {
     "id": "thoale3009",
@@ -37,5 +37,5 @@
   },
   {
     "id": "palamar",
-    "endpoint": "tcp://namada-rpc.palamar.io:80"
+    "endpoint": "https://namada-rpc.palamar.io"
   }]
