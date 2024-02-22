@@ -18,6 +18,10 @@
   {
     "id": "thoale3009",
     "endpoint": "https://namada-indexer.thoalt.com"
+  },
+  {
+    "id": "gruberx_ursus",
+    "endpoint": "https://namada-rpc.ursus.live"
   }
 
 
