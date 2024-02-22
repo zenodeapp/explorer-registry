@@ -30,4 +30,8 @@
   {
     "id": "testnet.one",
     "endpoint": "tcp://rpc.testnet.one:80"
+  },
+  {
+    "id": "thoale3009",
+    "endpoint": "tcp://namada-rpc.thoalt.com:80"
   }]
