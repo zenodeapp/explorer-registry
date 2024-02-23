@@ -36,6 +36,11 @@
     "endpoint": "tcp://namada-rpc.thoalt.com:80"
   },
   {
+    "id": "gruberx_ursus",
+    "endpoint": "tcp://namada-rpc.ursus.live:80"
+  },
+  {
     "id": "palamar",
     "endpoint": "https://namada-rpc.palamar.io"
-  }]
+  }
+]
