@@ -3,6 +3,10 @@
     "id": "anodeofzen",
     "endpoint": "https://namada-rpc.zenode.app"
   },
+{
+    "id": "WhisperNode",
+    "endpoint": "https://rpc-namada-testnet.whispernode.com"
+  },
   {
     "id": "Stake&Relax",
     "endpoint": "tcp://namada-testnet-rpc.stakeandrelax.net:80"
