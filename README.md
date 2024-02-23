@@ -19,7 +19,7 @@ If you wish to be included on the explorer, make a PR, editing the files:
 ## Supports
 
 - Namada/Shielded Expedition
-  - RPC (currently only supports **http://** or **tcp://**)
+  - RPC (~currently only supports **http://** or **tcp://**~ v0.31.6 introduced support for **https://**!)
   - API/Indexer (**https://** supported)
 
 ## Credits

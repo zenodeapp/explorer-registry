@@ -22,7 +22,9 @@
   {
     "id": "gruberx_ursus",
     "endpoint": "https://namada-indx.ursus.live"
+  },
+  {
+    "id": "palamar",
+    "endpoint": "https://namadexer.palamar.io"
   }
-
-
 ]
