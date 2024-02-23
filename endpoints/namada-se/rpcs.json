@@ -42,5 +42,9 @@
   {
     "id": "palamar",
     "endpoint": "https://namada-rpc.palamar.io"
+  },
+  {
+    "id": "yoza",
+    "endpoint": "http://yoza.live:80"
   }
 ]
