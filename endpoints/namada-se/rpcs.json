@@ -5,15 +5,15 @@
   },
   {
     "id": "Stake&Relax",
-    "endpoint": "tcp://namada-testnet-rpc.stakeandrelax.net:80"
+    "endpoint": "http://namada-testnet-rpc.stakeandrelax.net"
   },
   {
     "id": "spidey",
-    "endpoint": "tcp://namada-rpc.spidey.services:80"
+    "endpoint": "http://namada-rpc.spidey.services"
   },
   {
     "id": "LiveRaveN",
-    "endpoint": "tcp://namada.rpc80.liveraven.net:80"
+    "endpoint": "http://namada.rpc80.liveraven.net"
   },
   {
     "id": "OverlordDuck",
@@ -25,7 +25,7 @@
   },
   {
     "id": "snsmlnn",
-    "endpoint": "tcp://namada-rpc-80.snsmln.xyz:80"
+    "endpoint": "http://namada-rpc-80.snsmln.xyz"
   },
   {
     "id": "testnet.one",
@@ -33,11 +33,11 @@
   },
   {
     "id": "thoale3009",
-    "endpoint": "tcp://namada-rpc.thoalt.com:80"
+    "endpoint": "http://namada-rpc.thoalt.com"
   },
   {
     "id": "gruberx_ursus",
-    "endpoint": "tcp://namada-rpc.ursus.live:80"
+    "endpoint": "http://namada-rpc.ursus.live"
   },
   {
     "id": "palamar",
