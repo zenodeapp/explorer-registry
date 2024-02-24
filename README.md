@@ -14,7 +14,7 @@ If you wish to be included on the explorer, make a PR, editing the files:
 - [/endpoints/namada-se/apis.json](/endpoints/namada-se/apis.json) _(indexer)_
 - [/profiles.json](/profiles.json) _(optional; for an avatar)_
 
-> Currently, it's preferred to give an avatar coming from Keybase (images originating from the domain amazonaws.com), but might change this in the future to be less limited/restrictive.
+> Currently, it's preferred to give an avatar coming from Github or Keybase (images originating from the domain amazonaws.com), but might change this in the future to be less limited/restrictive.
 
 ## Supports
 
