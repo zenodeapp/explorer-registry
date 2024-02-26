@@ -26,5 +26,9 @@
   {
     "id": "palamar",
     "endpoint": "https://namadexer.palamar.io"
+  },
+  {
+    "id": "vlad_sns_team",
+    "endpoint": "https://namada-indexer-vlad.freemyip.com"
   }
 ]
