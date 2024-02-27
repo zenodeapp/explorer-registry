@@ -54,5 +54,9 @@
   {
     "id": "piki",
     "endpoint": "https://pikinamada.com"
+  },
+  {
+    "id": "vlad_sns_team",
+    "endpoint": "https://namada-rpc-vlad.freemyip.com"
   }
 ]
