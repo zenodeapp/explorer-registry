@@ -58,7 +58,7 @@
   {
     "id": "vlad_sns_team",
     "endpoint": "https://namada-rpc-vlad.freemyip.com"
-  }
+  },
   {
     "id": "cosmo",
     "endpoint": "https://namadarpc.songfi.xyz"
