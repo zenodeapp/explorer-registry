@@ -52,6 +52,10 @@
     "endpoint": "http://yoza.live"
   },
   {
+    "id": "cristiantroy",
+    "endpoint": "http://8.138.94.115:80"
+  },
+  {
     "id": "piki",
     "endpoint": "https://pikinamada.com"
   },
