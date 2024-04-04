@@ -13,7 +13,7 @@
   },
   {
     "id": "spidey",
-    "endpoint": "http://namada-rpc.spidey.services"
+    "endpoint": "https://namada-rpc.spidey.services"
   },
   {
     "id": "LiveRaveN",
