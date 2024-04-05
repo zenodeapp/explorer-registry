@@ -17,7 +17,7 @@
   },
   {
     "id": "LiveRaveN",
-    "endpoint": "http://namada.rpc80.liveraven.net"
+    "endpoint": "https://namada.rpc.liveraven.net"
   },
   {
     "id": "OverlordDuck",
