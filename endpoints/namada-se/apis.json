@@ -4,6 +4,10 @@
     "endpoint": "https://namada-api.zenode.app"
   },
   {
+    "id": "Stake&Relax",
+    "endpoint": "https://namada-testnet-indexer.stakeandrelax.net"
+  },
+  {
     "id": "snsmlnn",
     "endpoint": "https://namada-indexer.snsmln.xyz"
   },
