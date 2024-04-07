@@ -9,7 +9,7 @@
   },
   {
     "id": "Stake&Relax",
-    "endpoint": "http://namada-testnet-rpc.stakeandrelax.net"
+    "endpoint": "https://namada-testnet-rpc.stakeandrelax.net"
   },
   {
     "id": "spidey",
