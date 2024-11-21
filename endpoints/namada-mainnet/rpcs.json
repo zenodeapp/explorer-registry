@@ -6,5 +6,13 @@
   {
     "id": "mainnet.one",
     "endpoint": "https://rpc.mainnet.one"
+  },
+  {
+    "id": "bitszn",
+    "endpoint": "https://rpc-1.testnet.namada.bitszn.com"
+  },
+  {
+    "id": "ValidatorVN",
+    "endpoint": "https://namada-dryrun-rpc.validatorvn.com"
   }
 ]
