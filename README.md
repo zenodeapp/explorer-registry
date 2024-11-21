@@ -9,18 +9,28 @@ This has been written by ZENODE and is licensed under the APACHE 2.0-license (se
 
 ## PR Requests
 
-If you wish to be included on the explorer, make a PR, editing the files:
-- [/endpoints/namada-se/rpcs.json](/endpoints/namada-se/rpcs.json)
-- [/endpoints/namada-se/apis.json](/endpoints/namada-se/apis.json) _(indexer)_
+If you wish to be included on the explorer, make a PR, editing e.g. the files:
+- [/endpoints/namada-mainnet/rpcs.json](/endpoints/namada-mainnet/rpcs.json)
+- [/endpoints/namada-mainnet/indexers.json](/endpoints/namada-mainnet/indexers.json)
+- [/endpoints/namada-mainnet/masps.json](/endpoints/namada-mainnet/masps.json)
 - [/profiles.json](/profiles.json) _(optional; for an avatar)_
 
 > Currently, it's preferred to give an avatar coming from Github or Keybase (images originating from the domain amazonaws.com), but might change this in the future to be less limited/restrictive.
 
 ## Supports
 
-- Namada/Shielded Expedition
-  - RPC (~currently only supports **http://** or **tcp://**~ v0.31.6 introduced support for **https://**!)
-  - API/Indexer (**https://** supported)
+- Namada Mainnet (Dryrun)
+  - RPC
+  - Indexer
+  - Masp Indexer
+- Namada Devnet (Housefire)
+  - RPC
+  - Indexer
+  - Masp Indexer
+- Namada Testnet (Campfire)
+  - RPC
+  - Indexer
+  - Masp Indexer
 
 ## Credits
 
