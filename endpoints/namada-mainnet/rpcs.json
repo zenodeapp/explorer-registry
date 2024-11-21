@@ -2,5 +2,9 @@
   {
     "id": "anodeofzen",
     "endpoint": "https://namada-rpc.zenode.app"
+  },
+  {
+    "id": "testnet.one",
+    "endpoint": "https://rpc.mainnet.one"
   }
 ]
