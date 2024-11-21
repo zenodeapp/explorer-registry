@@ -4,7 +4,7 @@
     "endpoint": "https://namada-rpc.zenode.app"
   },
   {
-    "id": "testnet.one",
+    "id": "mainnet.one",
     "endpoint": "https://rpc.mainnet.one"
   }
 ]
