@@ -23,7 +23,7 @@ If you wish to be included on the explorer, make a PR, editing e.g. the files:
   - RPC
   - Indexer
   - Masp Indexer
-- Namada Devnet (Housefire)
+- Namada Bountynet (Housefire)
   - RPC
   - Indexer
   - Masp Indexer
