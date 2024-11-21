@@ -2,5 +2,9 @@
   {
     "id": "anodeofzen",
     "endpoint": "https://namada-campfire-rpc.zenode.app"
+  },
+  {
+    "id": "kjnodes",
+    "endpoint": "https://namada-testnet.rpc.kjnodes.com"
   }
 ]
