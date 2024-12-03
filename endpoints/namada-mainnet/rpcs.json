@@ -1,18 +1,18 @@
 [
   {
-    "id": "anodeofzen",
-    "endpoint": "https://namada-rpc.zenode.app"
+    "provider": "anodeofzen",
+    "address": "https://namada-rpc.zenode.app"
   },
   {
-    "id": "mainnet.one",
-    "endpoint": "https://rpc.mainnet.one"
+    "provider": "mainnet.one",
+    "address": "https://rpc.mainnet.one"
   },
   {
-    "id": "bitszn",
-    "endpoint": "https://rpc-1.testnet.namada.bitszn.com"
+    "provider": "bitszn",
+    "address": "https://rpc-1.testnet.namada.bitszn.com"
   },
   {
-    "id": "ValidatorVN",
-    "endpoint": "https://namada-dryrun-rpc.validatorvn.com"
+    "provider": "ValidatorVN",
+    "address": "https://namada-dryrun-rpc.validatorvn.com"
   }
 ]

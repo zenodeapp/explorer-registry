@@ -1,10 +1,10 @@
 [
   {
-    "id": "anodeofzen",
-    "endpoint": "https://namada-campfire-rpc.zenode.app"
+    "provider": "anodeofzen",
+    "address": "https://namada-campfire-rpc.zenode.app"
   },
   {
-    "id": "kjnodes",
-    "endpoint": "https://namada-testnet.rpc.kjnodes.com"
+    "provider": "kjnodes",
+    "address": "https://namada-testnet.rpc.kjnodes.com"
   }
 ]
