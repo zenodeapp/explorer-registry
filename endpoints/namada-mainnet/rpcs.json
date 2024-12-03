@@ -6,13 +6,5 @@
   {
     "provider": "mainnet.one",
     "address": "https://rpc.mainnet.one"
-  },
-  {
-    "provider": "bitszn",
-    "address": "https://rpc-1.testnet.namada.bitszn.com"
-  },
-  {
-    "provider": "ValidatorVN",
-    "address": "https://namada-dryrun-rpc.validatorvn.com"
   }
 ]
