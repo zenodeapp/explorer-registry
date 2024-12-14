@@ -6,5 +6,9 @@
   {
     "provider": "mainnet.one",
     "address": "https://rpc.mainnet.one"
+  },
+  {
+    "provider": "LiveRaveN",
+    "address": "https://namada.rpc.liveraven.net"
   }
 ]
