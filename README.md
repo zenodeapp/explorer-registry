@@ -19,7 +19,7 @@ If you wish to be included on the explorer, make a PR, editing e.g. the files:
 
 ## Supports
 
-- Namada Mainnet (Dryrun)
+- Namada Mainnet
   - RPC
   - Indexer
   - Masp Indexer
